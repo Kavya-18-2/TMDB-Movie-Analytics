@@ -60,7 +60,7 @@ Contains:
 The datasets are combined using the common movie title field.
 ## Dataset Source
 
-Kaggle: TMDB 5000 Movie Dataset
+Kaggle: https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 
 ---
 
