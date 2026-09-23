@@ -58,6 +58,9 @@ Contains:
 * Crew
 
 The datasets are combined using the common movie title field.
+## Dataset Source
+
+Kaggle: TMDB 5000 Movie Dataset
 
 ---
 
